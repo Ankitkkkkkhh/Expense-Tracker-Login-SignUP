@@ -1,7 +1,7 @@
 # Expense-Tracker-Login-SignUP
 This Expense Tracker System is a web-based application built using React for the frontend and Node.js with Express.js for the backend. The project allows users to efficiently manage their expenses by adding, updating, and tracking expense details. Users can input essential information such as the expense name, amount, date, and description
 
-Key features of the application include:
+<h1>Key features of the application include:</h1>
 
 Add Expense: Users can seamlessly add a new expense with proper form validation.
 Dynamic Data Handling: User inputs are dynamically handled using React's useState hook, ensuring a smooth and interactive experience.
